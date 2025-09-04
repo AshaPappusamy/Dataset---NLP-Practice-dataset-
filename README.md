@@ -10,9 +10,3 @@ Each record represents **one post**, with details about the **user**, the **plat
 - 😀 Includes **sentiment analysis**, classifying posts as **Positive / Negative / Neutral**.
 - 📍 Provides **geographic context** (*user location*), enabling **regional analysis** of sustainability discourse.
 
----
-✨ This dataset can be used to explore:
-- Platform-wise **engagement trends**
-- **Popular hashtags** in climate discussions
-- **Sentiment distribution** across regions
-- The impact of **climate topics** on engagement
